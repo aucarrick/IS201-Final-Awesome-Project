@@ -1,0 +1,14 @@
+body{
+    color: ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: gray;
+}
+h1{
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
